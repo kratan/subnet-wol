@@ -1,0 +1,9 @@
+latest.php
+ldap2.php
+ldap.php
+*.log
+paxwaxmix.php
+*.
+*.htpasswd
+*.htaccess
+*.*_old
